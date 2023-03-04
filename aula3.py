@@ -1,7 +1,7 @@
 """
 
 Python = L.P
-Tipagem: dinâmica / forte => já sabe o tipo de dado e pode ser alterado
+Tipagem: dinâmica / forte => já sabe o tipo de dado, pode ser alterado e não deixa realizar operações dependendo do tipo de dado
 
 """
 
